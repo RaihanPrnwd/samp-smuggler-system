@@ -15,7 +15,7 @@
 *  ███████╗ ██████╗ ██████╗ ███████╗
 *  ██╔════╝██╔═══██╗██╔══██╗██╔════╝     Github showcase / public documentation
 *  █████╗  ██║   ██║██████╔╝█████╗        Author/Pembuat: Raihan Purnawadi
-*  ██╔══╝  ██║   ██║██╔══██╗██╔══╝        Kontak: github.com/raihanputra (atau sesuai repo)
+*  ██╔══╝  ██║   ██║██╔══██╗██╔══╝        Kontak: github.com/RaihanPrnwd
 *  ██║     ╚██████╔╝██║  ██║███████╗   
 *  ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝   
 * 
