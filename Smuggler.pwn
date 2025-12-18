@@ -48,7 +48,7 @@
 *  - Pembuatan blip, pickup, marker dilakukan via native/core streamer SA-MP
 *  - Basic anti-duplikasi dan obfuscasi konstanta
 * 
-***********************************************************************************************
+***********************************************************************************************/
 
 // ----------------------------------------
 //               CONSTANTS / KONSTANTA
